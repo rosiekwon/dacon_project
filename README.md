@@ -3,6 +3,7 @@ Dacon_project
 1. Data on weather conditions and bicycle rentals by date and hour in Mapo-gu, Seoul
 
 train.csv / test.csv
+
   id 
   hour 
   temperature 
