@@ -63,3 +63,13 @@ These datasets can be viewed as classification or regression tasks. The classes 
   Output variable (based on sensory data):
 
     quality (score between 0 and 10)
+    
+ 
+## 3. Petitions to Blue House Data Set
+
+  index index
+  
+  category 청원 주제/범주 - 0.인권/성평등 1 : 문화/예술/체육/언론 2 : 육아/교육
+  
+  data 청원 내용
+  
